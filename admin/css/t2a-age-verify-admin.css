@@ -1,0 +1,27 @@
+.product-list {
+    transition: height .5s ease;
+    overflow  : hidden;
+    width: 500px;
+}
+
+.product-list:not(.active) {
+    display: none;
+}
+
+.t2a-user-list {
+    width: 50%;
+}
+
+.not-verified {
+    color: #ff0100;
+    font-weight: bold;
+}
+
+.verified {
+    color: #39904b;
+    font-weight: bold;
+}
+
+.t2acont {
+    width: 50%;
+}

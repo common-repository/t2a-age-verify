@@ -1,0 +1,33 @@
+.age-verification-example, .results {
+    width: 400px;
+}
+
+form.age-verification-form, .results {
+    background-color: #F6F6F6;
+    border: 1px solid #CBCBCB;
+    padding: 15px;
+}
+
+.example-submit {
+    padding: 10px 50px;
+    border-radius: 10px;
+    background-color: #3D5AFE;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    border: none;
+}
+
+.results {
+    display: none;
+}
+
+.form-group label {
+    display: block;
+}
+
+.form-group input {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
